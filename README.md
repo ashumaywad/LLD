@@ -46,7 +46,6 @@ src/main/java/com/example/discount
 │   ├── LoyaltyDiscount.java
 │   ├── BulkPurchaseDiscount.java
 │   └── BankingCoupon.java
-├── couponmanager
 │   └── CouponManager.java
 └── strategy
     ├── DiscountStrategy.java
