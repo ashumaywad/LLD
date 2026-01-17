@@ -94,8 +94,8 @@ src/main/java/com/example/discount
 
 ### Steps
 ```bash
-git clone https://github.com/your-username/discount-coupon-engine.git
-cd discount-coupon-engine
+git clone https://github.com/ashumaywad/LLD.git
+cd LLD/discountCouponApp
 ```
 
 Run:
